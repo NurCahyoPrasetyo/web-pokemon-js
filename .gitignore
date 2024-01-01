@@ -1,0 +1,7 @@
+node_modules
+dist
+package-lock.json
+allure-results
+.env
+.vscode
+coverage
